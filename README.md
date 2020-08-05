@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
+- 🔭 I’m currently working on [Zoom clone using Node js](https://github.com/mankarsandesh/room-video-call-using-nodejs)
+
 - 🌱 I’m currently learning **React JS, Angular, Pyathon , Ruby**
+
+- 👯 I’m looking to collaborate on [Zoom clone using Node JS](https://github.com/mankarsandesh/room-video-call-using-nodejs)
+
+- 🤔 I’m looking for **new remote job and Full time Job in Bangkok.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mankarsandesh](https://github.com/mankarsandesh)
 
 - 📝 I regulary write articles on [https://medium.com/@sandeshmankar](https://medium.com/@sandeshmankar)
+
+- 💬 Ask me about **Php , MYSQL, Javascript , HTML , Vue js , Nuxt.js and React JS.**
 
 - 📫 How to reach me **mankarsandesh111@gmail.com**
 
