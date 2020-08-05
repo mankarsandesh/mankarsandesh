@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
-- 🌱 I’m currently learning **React JS, Angular, Pyathon**
+- 🌱 I’m currently learning **React JS, Angular, Pyathon , Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mankarsandesh](https://github.com/mankarsandesh)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mankarsandesh111@gmail.com**
 
-- ⚡ Fun fact **Chai Lover**
+- ⚡ Fun fact **Learning new technology , and solved real time problem.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,6 +24,7 @@
 <p align="center">
 <a href="https://dev.to/https://dev.to/mankarsandesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/mankarsandesh" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mankarsandesh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mankarsandesh/" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/3264580/sandesh-mankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3264580/sandesh-mankar" height="30" width="30" /></a>
 <a href="https://instagram.com/sandesh_mankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sandesh_mankar" height="30" width="30" /></a>
 <a href="https://medium.com/@sandeshmankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sandeshmankar" height="30" width="30" /></a>
 </p>
