@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh</h1>
-<h3 align="center">A passionate, forward-thinking developer offering more than 5+ years of experience including 2 years as freelancer web application building, integrating, testing and supporting Web and Native Mobile Application.</h3>
+<h3 align="center">A passionate, forward-thinking developer offering more than 5+ years of experience including 2 years as freelancer building, integrating, testing and supporting Web and Native Mobile Application. and Quick learner with strong interpersonal skills and proven ability to manage the positive and productive client relationship, problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
