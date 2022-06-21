@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
-- 🔭 I’m currently working on **Zoom clone using Node JS and Casino Project**
+- 🔭 I’m currently working on **Booking Website Clone using React JS,Node JS, Mongodb **
 
-- 🌱 I’m currently learning **React JS , Node JS**
-
-- 👯 I’m looking to collaborate on **Front end Development**
+- 🌱 I’m currently learning **React JS,Node JS,Graph QL**
 
 - 🤔 I’m looking for **Remote Work**
 
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **mankarsandesh111@gmail.com**
 
-- ⚡ Fun fact **I spend most of time Learning new technology.**
+- ⚡ Fun fact **I spend most of time Learning new Programming Language.**
 
 <p align="center">
 <a href="https://dev.to/mankarsandesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mankarsandesh" height="30" width="30" /></a>
