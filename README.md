@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
-- 🔭 I’m currently working on **Booking Website Clone using React JS,Node JS, Mongodb **
+- 🔭 I’m currently working on **Booking Website Clone using React JS,Node JS, Mongodb**
 
 - 🌱 I’m currently learning **React JS,Node JS,Graph QL**
 
