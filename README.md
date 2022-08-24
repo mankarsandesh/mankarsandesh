@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React JS,Node JS,Graph QL**
 
-- 🤔 I’m looking for **Remote Work**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mankarsandesh](https://github.com/mankarsandesh)
 
 - 📝 I regulary write articles on [https://medium.com/@sandeshmankar](https://medium.com/@sandeshmankar)
