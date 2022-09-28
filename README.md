@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sunday Admin Panel**
 
-- 🌱 I’m currently learning **React JS,Node JS,Graph QL**
+- 🌱 I’m currently learning **Graph QL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mankarsandesh](https://github.com/mankarsandesh)
 
