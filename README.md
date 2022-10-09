@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
-- 🔭 I’m currently working on **Sunday Admin Panel**
+- 🔭 I’m currently working on ** Admin Panel, Listing Project **
 
-- 🌱 I’m currently learning **Graph QL**
+- 🌱 I’m currently learning **React Js,Graph QL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mankarsandesh](https://github.com/mankarsandesh)
 
-- 📝 I regulary write articles on [https://medium.com/@sandeshmankar](https://medium.com/@sandeshmankar)
+- 📝 some articles on [https://medium.com/@sandeshmankar](https://medium.com/@sandeshmankar)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development,Mobile Development,Agile Process, Project planning**
 
 - 📫 How to reach me **mankarsandesh111@gmail.com**
 
-- ⚡ Fun fact **I spend most of time Learning new Programming Language.**
+- ⚡ Fun fact **I spend most of time build somthing new.**
 
 <p align="center">
 <a href="https://dev.to/mankarsandesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mankarsandesh" height="30" width="30" /></a>
