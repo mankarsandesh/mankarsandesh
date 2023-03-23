@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
-- 🔭 I’m currently working on ** Admin Panel, Listing Project **
+- 🔭 I’m currently working on ** React Admin Panel, Listing Project **
 
-- 🌱 I’m currently learning **React Js,Graph QL**
+- 🌱 I’m currently learning **React Js,Nextjs,Graph QL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mankarsandesh](https://github.com/mankarsandesh)
 
