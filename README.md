@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
-- 🔭 I’m currently working on ** React Admin Panel, Listing Project **
+- 🔭 I’m currently working on ** React Admin Panel using tailwind and Food Ordering app **
 
-- 🌱 I’m currently learning **React Js,Nextjs,Graph QL**
+- 🌱 I’m currently learning ** Nextjs 13.4 ,Graph QL and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mankarsandesh](https://github.com/mankarsandesh)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mankarsandesh111@gmail.com**
 
-- ⚡ Fun fact **I spend most of time build somthing new.**
+- ⚡ Fun fact **I spend most of time learning new technology.**
 
 <p align="center">
 <a href="https://dev.to/mankarsandesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mankarsandesh" height="30" width="30" /></a>
