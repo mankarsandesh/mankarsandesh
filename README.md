@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ** React Admin Panel using tailwind and Food Ordering app **
 
-- 🌱 I’m currently learning ** Nextjs 13.4 ,Graph QL and Typescript**
+- 🌱 I’m currently learning **Response - generate dynamic form where customer can response answer. (google form - clone) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/mankarsandesh](https://github.com/mankarsandesh)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mankarsandesh111@gmail.com**
 
-- ⚡ Fun fact **I spend most of time learning new technology.**
+- ⚡ Fun fact **I spend most of time learning new technology and play games.**
 
 <p align="center">
 <a href="https://dev.to/mankarsandesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mankarsandesh" height="30" width="30" /></a>
