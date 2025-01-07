@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarsandesh" alt="mankarsandesh" /> </p>
 
-- 🔭 I’m currently working on ** React Admin Panel using tailwind and Food Ordering app **
+- 🔭 I’m currently working on ** Account flow - Web app Where you cateogries your bank transacation **
 
 - 🌱 I’m currently learning **Response - generate dynamic form where customer can response answer. (google form - clone) **
 
