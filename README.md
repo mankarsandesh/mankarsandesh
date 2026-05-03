@@ -16,6 +16,9 @@ https://package-pulse.vercel.app/
 **🛠 [json-viewer](https://github.com/mankarsandesh/json-viewer)** — *( Paste, drop a file, or load the sample. Built for large documents — collapsible tree, search, lazy rendering.)*
 https://json-viewer-explorer.vercel.app/
 
+**🛠 [aws-chunked-uploader](https://github.com/mankarsandesh/aws-chunked-upload)** — *( Upload files up to 50 GB to AWS S3 using multipart uploads. Chunks go directly from the browser to S3 via presigned URLs — your Express server never handles file data.)*
+
+
 ---
 
 ### What I'm interested in
