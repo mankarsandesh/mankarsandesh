@@ -15,31 +15,28 @@ A passionate, forward-thinking developer with **7+ years of experience** (includ
 const sandesh = {
     pronouns: "He" | "Him",
     location: "Mumbai, India 🇮🇳",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    code: ["JavaScript", "TypeScript"],
     askMeAbout: ["Web Dev", "Mobile Dev", "Agile", "Project Planning"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular", "Vue"],
+            js: ["React", "Vue"],
             css: ["Tailwind", "Bootstrap", "Material-UI"]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"]
+            js: ["Node", "Express", "PHP", "Laravel"],
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        mobile: ["React Native", "Flutter"],
+        mobile: ["React Native"],
         devOps: ["Docker", "AWS", "CI/CD"],
         tools: ["Git", "Jira", "Figma"]
     },
-    currentFocus: "Building Account Flow - Smart Bank Transaction Categorization",
     funFact: "I spend most of my time learning new technology and playing games 🎮"
 };
 ```
 
 ## 🚀 Current Focus
 
-- 🔭 Working on **Account Flow** - A web app that intelligently categorizes your bank transactions
-- 🌱 Currently exploring **Graph Databases** and advanced data structures
+- 🌱 Currently exploring **Graph Databases** and advanced data structures.
 - 💡 Always learning and experimenting with cutting-edge technologies
 
 ## 🛠️ Tech Stack
