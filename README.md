@@ -10,6 +10,9 @@ I work mostly with **TypeScript, React, Next.js, Node.js, NestJS,** and **PHP (L
 
 ### Recent weekend projects
 
+**🩺 [React Skip Logic - NPM Package ](https://github.com/mankarsandesh/react-skip-logic)** — Headless branching ("skip logic") for multi-step forms, surveys, quizzes and onboarding flows in React.(NPM Package)
+https://mankarsandesh.github.io/react-skip-logic/
+
 **🩺 [Package Pulse](https://github.com/mankarsandesh/package-pulse)** — Paste your `package.json` and see what's outdated, stale, or compromised before you run `npm install`. Cross-references the npm registry, flags known supply-chain incidents, and generates a cleaned-up `package.json`. Built with Next.js + Tailwind. 
 https://package-pulse.vercel.app/
 
